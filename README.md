@@ -2,7 +2,7 @@
 
 Here is an ongoing list of my skills/experience:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,processing,arduino,git,p5js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,arduino,processing,p5js)](https://skillicons.dev)
 
 Currently learning/playing around with...
 
