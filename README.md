@@ -7,6 +7,7 @@ Here is an ongoing list of my skills/experience:
 Currently learning/playing around with...
 
 [![Learning](https://skillicons.dev/icons?i=js,html,css,nodejs,svelte,sqlite)](https://skillicons.dev)
+
 [![Learning](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)
 <!---
 lucas01b0x/lucas01b0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
