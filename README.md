@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-👋 Hello!! I’m @lucas01b0x or Lucas O, a student programmer interested in robotics. 
+👋 Hello!! I’m @lucas01b0x or Lucas O, a software engineer interested in robotics. 
 
 Tech Stack:
 
